@@ -1,2 +1,2 @@
-# Constru-o-de-algoritmo-em-C
+# Construção-o-de-algoritmo-em-C
 Trabalho de Estrutura de Dados
